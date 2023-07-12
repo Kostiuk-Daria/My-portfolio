@@ -130,7 +130,7 @@
  <li>Создание отчета по АБ тесту, выгрузка полученных результатов в Excel.</li>
 </ul> 
 
-> <a href="https://github.com/Kostiuk-Daria/My-portfolio/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%205">Ссылка на проект</a>
+> <a href="https://github.com/Kostiuk-Daria/My-portfolio/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%206">Ссылка на проект</a>
 <br>
 
   
