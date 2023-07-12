@@ -147,3 +147,4 @@
 
 ## Контактная информация
 - Email: klepikovadarya@yandex.ru
+- Telegram: @DariaKostiuk20
